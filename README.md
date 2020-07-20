@@ -45,7 +45,7 @@ We've provided you with a console that you can use to test your code. To enter a
 ### `Book`
 Build the following methods on the Book class
 
-- `Book.all`
+- `Book.all` - DONE
 should return all of the books
 - `Book#author`
 should return the author instance who wrote this book
